@@ -38,10 +38,6 @@ article header{
 	font-variant: small-caps;
 }
 
-article header p:first-child{
-	font-size: 1.5em;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;

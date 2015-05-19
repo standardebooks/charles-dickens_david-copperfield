@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/david-copperfield</dc:identifier>
-		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-17T23:27:10Z</meta>
+		<dc:date>2015-05-18T04:42:00Z</dc:date>
+		<meta property="dcterms:modified">2015-05-19T04:55:01Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -51,7 +51,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/766</dc:source>
 		<dc:source>https://archive.org/stream/aan4786.0001.001.umich.edu</dc:source>
 		<meta property="se:production-notes">Checked against the 1981 Bantam Classic edition to add many italics that were missing from the Gutenberg transctiption.</meta>
-		<meta property="se:word-count">361472</meta>
+		<meta property="se:word-count">361479</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/David_Copperfield</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_david-copperfield</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
