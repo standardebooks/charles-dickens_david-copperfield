@@ -58,11 +58,11 @@
 		<dc:creator id="author">Charles Dickens</dc:creator>
 		<meta property="file-as" refines="#author">Dickens, Charles</meta>
 		<meta property="se:name.person.full-name" refines="#author">Charles John Huffam Dickens</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_dickens</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_dickens</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Carl Spitzweg</dc:contributor>
 		<meta property="file-as" refines="#artist">Spitzweg, Carl</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Carl_Spitzweg</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Carl_Spitzweg</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jo Churcher</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Churcher, Jo</meta>
