@@ -22,6 +22,10 @@ abbr.initialism{
 	font-variant: all-small-caps;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 .signature,
 b,
 strong{
