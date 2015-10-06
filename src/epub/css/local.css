@@ -32,7 +32,6 @@ strong{
 	font-variant: small-caps;
 }
 
-div[epub|type~="z3998:letter"],
 article{
 	margin: 1em;
 }
