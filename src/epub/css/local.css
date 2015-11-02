@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 b{
+	font-variant: small-caps;
 	font-weight: normal;
 }
 
@@ -18,16 +19,11 @@ footer.micawber{
 	text-align: right;
 }
 
-abbr.initialism{
-	font-variant: all-small-caps;
-}
-
 abbr.name{
 	white-space: nowrap;
 }
 
 .signature,
-b,
 strong{
 	font-variant: small-caps;
 }
