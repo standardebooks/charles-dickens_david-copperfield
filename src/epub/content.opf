@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/david-copperfield</dc:identifier>
 		<dc:date>2015-05-19T04:55:01Z</dc:date>
-		<meta property="dcterms:modified">2015-11-19T01:10:44Z</meta>
+		<meta property="dcterms:modified">2015-12-04T07:44:24Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,6 +53,7 @@
 		<dc:source>https://archive.org/stream/aan4786.0001.001.umich.edu</dc:source>
 		<meta property="se:production-notes">Checked against the 1981 Bantam Classic edition to add many italics that were missing from the Gutenberg transcription.</meta>
 		<meta property="se:word-count">361479</meta>
+		<meta property="se:reading-ease.flesch">70.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/David_Copperfield</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_david-copperfield</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -61,6 +62,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_dickens</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78087607.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Carl Spitzweg</dc:contributor>
 		<meta property="file-as" refines="#artist">Spitzweg, Carl</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Carl_Spitzweg</meta>
