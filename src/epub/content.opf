@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/david-copperfield</dc:identifier>
 		<dc:date>2015-05-19T04:55:01Z</dc:date>
-		<meta property="dcterms:modified">2015-12-23T05:09:09Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:39:46Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,15 +31,15 @@
 		<dc:subject id="subject-7">England -- Fiction</dc:subject>
 		<dc:subject id="subject-8">Autobiographical fiction</dc:subject>
 		<dc:subject id="subject-9">Bildungsromans</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-8">http://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-9">http://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/766</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The semi-autobiographical tale of a young boy who rises up to become a successful novelist.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -49,7 +49,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/766</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/766</dc:source>
 		<dc:source>https://archive.org/stream/aan4786.0001.001.umich.edu</dc:source>
 		<meta property="se:production-notes">Checked against the 1981 Bantam Classic edition to add many italics that were missing from the Gutenberg transcription.</meta>
 		<meta property="se:word-count">361479</meta>
