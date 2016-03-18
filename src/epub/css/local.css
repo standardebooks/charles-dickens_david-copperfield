@@ -23,8 +23,7 @@ abbr.name{
 	white-space: nowrap;
 }
 
-.signature,
-strong{
+.signature{
 	font-variant: small-caps;
 }
 
