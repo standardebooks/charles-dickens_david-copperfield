@@ -6,6 +6,11 @@ b{
 	font-weight: normal;
 }
 
+ul{
+	list-style: none;
+	padding: 0;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -27,11 +32,7 @@ abbr.name{
 	font-variant: small-caps;
 }
 
-article{
-	margin: 1em;
-}
-
-article header{
+blockquote header{
 	text-align: center;
 	font-variant: small-caps;
 }
@@ -48,33 +49,32 @@ p[epub|type~="z3998:postscript"]{
 
 [epub|type~="z3998:letter"] + p,
 [epub|type~="z3998:diary"] + p,
-article + p,
 p[epub|type~="z3998:salutation"],
 [epub|type~="se:letter.dateline"] + p{
 	text-indent: 0;
 }
 
-.i1{
+p.i1{
 	text-indent: 2em;
 }
 
-.i2{
+p.i2{
 	text-indent: 4em;
 }
 
-.i3{
+p.i3{
 	text-indent: 6em;
 }
 
-.i4{
+p.i4{
 	text-indent: 8em;
 }
 
-.i5{
+p.i5{
 	text-indent: 10em;
 }
 
-.i6{
+p.i6{
 	text-indent: 12em;
 }
 
