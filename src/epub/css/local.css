@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-b{
-	font-variant: small-caps;
-	font-weight: normal;
-}
-
 ul{
 	list-style: none;
 	padding: 0;
@@ -24,16 +19,11 @@ footer.micawber{
 	text-align: right;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 .signature{
 	font-variant: small-caps;
 }
 
 blockquote header{
-	text-align: center;
 	font-variant: small-caps;
 }
 
