@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">David Copperfield</dc:title>
 		<meta property="file-as" refines="#title">David Copperfield</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -42,23 +42,30 @@
 		<dc:subject id="subject-7">England -- Fiction</dc:subject>
 		<dc:subject id="subject-8">Autobiographical fiction</dc:subject>
 		<dc:subject id="subject-9">Bildungsromans</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/766</meta>
-		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/766</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008114941</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2007101907</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008108587</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008114024</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008111702</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008100391</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh85048066</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2003003087</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The semi-autobiographical tale of a young boy who rises up to become a successful novelist.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Like many of Dickens’ works, &lt;i&gt;David Copperfield&lt;/i&gt; was published serially, then as a complete novel for the first time in 1850. Dickens himself thought of it as his favorite novel, writing in the preface that of all his works &lt;i&gt;Copperfield&lt;/i&gt; was his favorite child. This isn’t surprising, considering that many of the events in the novel are semi-autobiographical accounts from Dickens’ own life.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;David Copperfield&lt;/i&gt; we follow the life of the titular character as he makes a life for himself in England. He finds himself in the care of a cold stepfather who sends him to boarding school, and from there embarks on a journey filled with characters and events that can only be called “Dickensian” in their colorful and just-barely-probable portrayals.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/766</dc:source>
 		<dc:source>https://archive.org/details/aan4786.0001.001.umich.edu</dc:source>
