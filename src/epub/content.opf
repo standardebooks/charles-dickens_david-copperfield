@@ -63,7 +63,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The semi-autobiographical tale of a young boy who rises up to become a successful novelist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Like many of Dickens’ works, &lt;i&gt;David Copperfield&lt;/i&gt; was published serially, then as a complete novel for the first time in 1850. Dickens himself thought of it as his favorite novel, writing in the preface that of all his works &lt;i&gt;Copperfield&lt;/i&gt; was his favorite child. This isn’t surprising, considering that many of the events in the novel are semi-autobiographical accounts from Dickens’ own life.&lt;/p&gt;
+			&lt;p&gt;Like many of &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Dickens’&lt;/a&gt; works, &lt;i&gt;David Copperfield&lt;/i&gt; was published serially, then as a complete novel for the first time in 1850. Dickens himself thought of it as his favorite novel, writing in the preface that of all his works &lt;i&gt;Copperfield&lt;/i&gt; was his favorite child. This isn’t surprising, considering that many of the events in the novel are semi-autobiographical accounts from Dickens’ own life.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;David Copperfield&lt;/i&gt; we follow the life of the titular character as he makes a life for himself in England. He finds himself in the care of a cold stepfather who sends him to boarding school, and from there embarks on a journey filled with characters and events that can only be called “Dickensian” in their colorful and just-barely-probable portrayals.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
