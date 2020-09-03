@@ -27,11 +27,6 @@ blockquote header{
 	font-variant: small-caps;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 p[epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-indent: 0;
