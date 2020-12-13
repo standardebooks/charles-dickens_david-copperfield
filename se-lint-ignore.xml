@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Footers are styled to match letters in print.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
