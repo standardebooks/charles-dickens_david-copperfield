@@ -12,7 +12,7 @@ footer{
 }
 
 footer.micawber{
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="se:letter.dateline"]{
@@ -82,7 +82,7 @@ section[epub|type~="dedication"] p{
 
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
