@@ -77,7 +77,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/766</dc:source>
 		<dc:source>https://archive.org/details/aan4786.0001.001.umich.edu</dc:source>
 		<meta property="se:production-notes">Checked against the 1981 Bantam Classic edition to add many italics that were missing from the Gutenberg transcription.</meta>
-		<meta property="se:word-count">361433</meta>
+		<meta property="se:word-count">361434</meta>
 		<meta property="se:reading-ease.flesch">70.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/David_Copperfield</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_david-copperfield</meta>
