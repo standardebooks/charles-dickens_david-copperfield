@@ -34,13 +34,13 @@
 		<dc:title id="fulltitle">The Personal History, Adventures, Experience and Observation of David Copperfield the Younger of Blunderstone Rookery (Which He Never Meant to Publish on Any Account)</dc:title>
 		<meta property="file-as" refines="#fulltitle">Personal History, Adventures, Experience and Observation of David Copperfield the Younger of Blunderstone Rookery (Which He Never Meant to Publish on Any Account), The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">England -- Social life and customs -- 19th century -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Boys -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Orphans -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Young men -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Stepfathers -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Child labor -- Fiction</dc:subject>
-		<dc:subject id="subject-7">England -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Social life and customs--19th century--Fiction</dc:subject>
+		<dc:subject id="subject-2">Boys--Fiction</dc:subject>
+		<dc:subject id="subject-3">Orphans--Fiction</dc:subject>
+		<dc:subject id="subject-4">Young men--Fiction</dc:subject>
+		<dc:subject id="subject-5">Stepfathers--Fiction</dc:subject>
+		<dc:subject id="subject-6">Child labor--Fiction</dc:subject>
+		<dc:subject id="subject-7">England--Fiction</dc:subject>
 		<dc:subject id="subject-8">Autobiographical fiction</dc:subject>
 		<dc:subject id="subject-9">Bildungsromans</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
