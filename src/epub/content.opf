@@ -93,7 +93,7 @@
 		<dc:creator id="author">Charles Dickens</dc:creator>
 		<meta property="file-as" refines="#author">Dickens, Charles</meta>
 		<meta property="schema:alternateName" refines="#author">Charles John Huffam Dickens</meta>
-		<link href="https://en.wikipedia.org/wiki/Charles_dickens" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Charles_Dickens" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78087607.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
